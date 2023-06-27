@@ -1,0 +1,70 @@
+h1 {
+    color: #7ED957;
+    font-size: 35px;
+}
+
+body{
+    background-image: linear-gradient(to left, black, #737373);
+    font-family: 'Open Sans';
+}
+
+main {
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 0px;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+main h6{
+    text-align: left;
+    padding-left: 30px;
+}
+
+.logo{
+    margin: 0px;
+    margin-left: -100px;
+    margin-right: -100px;
+    text-align: center;
+    background-color: gray;
+    padding: 5px 40px;
+}
+
+.Links{
+    text-align: center;
+    font-size: 30px;
+}
+
+#menu ul{
+    padding: 10px;
+    margin: 0px;
+    margin-right: 100px;
+    background-color: rgba(0, 0, 0, 0,2);
+    list-style: none;
+    text-align: center;
+}
+
+#menu ul li{
+    display: inline-block;
+    padding: 2px 10px;
+    text-decoration: none;
+    border-bottom: 3px solid rgba(0, 0, 0, 0);
+    color: darkslategray;
+}
+
+#menu ul li a:hover{
+    background-color: #737373;
+    color: black;
+    border-bottom: 3px solid #7ED957;
+}
+
+.Bottom{
+    text-align: center;
+    background-color: rgb(58, 54, 54);
+    border: 3px solid darkgray;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: #7ED957;
+    text-decoration: none;
+}

@@ -1,0 +1,28 @@
+
+*{
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(to left, black, #737373);
+    font-family: 'Open Sans';
+}
+
+label{
+    font-size: 20px;
+    color: black;
+}
+
+p{
+    font-size: 20px;
+    color: #7ED957;
+}
+
+option{
+    background-color: rgba(0, 0, 0, 0,5);
+}
+
+button{
+    height: 40px;
+    width: 70px;
+}

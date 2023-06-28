@@ -1,6 +1,6 @@
 <div align="center">
   <h1>My first HTML project</h1>
-    <h3>first step in developer world</h3>
+    <h3>first step as a developer</h3>
     <br/>
       <p>this is my first program, and because it is the first, you can see the lack of creativity and design skills in the project, even so it is my most important project, since it was what made me love the web development area.</p>
     
